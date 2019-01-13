@@ -11,4 +11,4 @@ publish_package
 
 # Read more
 
-https://guido.nyc/s3-pypi
+https://guido.nyc/pypi-s3
