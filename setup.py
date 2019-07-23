@@ -10,7 +10,7 @@ def setup_package():
     setup(
         name='s3_pypi_publisher',
 
-        version='0.1.0',
+        version='0.1.1',
 
         description='A utility to publish Python packages to S3 buckets',
 
